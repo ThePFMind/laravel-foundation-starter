@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/bower_components
+.env
+
+# PHPStorm
+.idea
+
+#public
+/public/css/*

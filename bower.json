@@ -1,0 +1,21 @@
+{
+  "name": "aispromotion",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ThePFMind <thepfmind@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.1.1"
+  }
+}
